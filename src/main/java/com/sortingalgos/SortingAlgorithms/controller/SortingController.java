@@ -15,10 +15,10 @@ public class SortingController {
     // @Autowired
     // private SortingRepository sortingrepository;
 
-    @PostMapping("/bubble_sort")
-    public List<Integer> bubbleSort(@RequestBody List<Integer> array){
-        return kdlfsjd;
-    }
+    // @PostMapping("/bubble_sort")
+    // public List<Integer> bubbleSort(@RequestBody List<Integer> array){
+        
+    // }
 
     //   @PostMapping("/insertion_sort")
     // public List<Integer> bubbleSort(@RequestBody List<Integer> array){
